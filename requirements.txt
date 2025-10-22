@@ -1,3 +1,4 @@
+Procfile
 fastapi
 uvicorn[standard]
 sqlalchemy
