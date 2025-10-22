@@ -1,0 +1,542 @@
+[
+    {
+        "id_sede": 111001002330,
+        "nombre_sede": "COLEGIO LA GAITANA (IED) - SEDE LA GAITANA",
+        "localidad": "Suba",
+        "matriculados_2023": 1228,
+        "consumo_anual_2023_kwh": 43520,
+        "lon": -74.10861000002423,
+        "lat": 4.742219999872693,
+        "base_consumo_hora_2023_kwh": 4.968036529680365
+    },
+    {
+        "id_sede": 111001044288,
+        "nombre_sede": "COLEGIO LA GAITANA (IED) - SEDE VILLA MARIA",
+        "localidad": "Suba",
+        "matriculados_2023": 942,
+        "consumo_anual_2023_kwh": 15861,
+        "lon": -74.10659999981308,
+        "lat": 4.739900000018381,
+        "base_consumo_hora_2023_kwh": 1.8106164383561645
+    },
+    {
+        "id_sede": 111769000352,
+        "nombre_sede": "COLEGIO INSTITUTO TECNICO DISTRITAL JULIO FLOREZ (IED) - SEDE SANTA ROSA",
+        "localidad": "Suba",
+        "matriculados_2023": 659,
+        "consumo_anual_2023_kwh": 19600,
+        "lon": -74.074110000315,
+        "lat": 4.695959999743542,
+        "base_consumo_hora_2023_kwh": 2.2374429223744294
+    },
+    {
+        "id_sede": 111001015776,
+        "nombre_sede": "COLEGIO INSTITUTO TECNICO DISTRITAL JULIO FLOREZ (IED) - SEDE JULIO FLOREZ",
+        "localidad": "Suba",
+        "matriculados_2023": 691,
+        "consumo_anual_2023_kwh": 65160,
+        "lon": -74.0775599999266,
+        "lat": 4.687189999785967,
+        "base_consumo_hora_2023_kwh": 7.438356164383562
+    },
+    {
+        "id_sede": 111001025020,
+        "nombre_sede": "COLEGIO ALBERTO LLERAS CAMARGO (IED) - SEDE ALBERTO LLERAS CAMARGO",
+        "localidad": "Suba",
+        "matriculados_2023": 3242,
+        "consumo_anual_2023_kwh": 101840,
+        "lon": -74.10247999983166,
+        "lat": 4.74348999976095,
+        "base_consumo_hora_2023_kwh": 11.625570776255708
+    },
+    {
+        "id_sede": 111001045225,
+        "nombre_sede": "COLEGIO TIBABUYES UNIVERSAL (IED) - SEDE TIBABUYES UNIVERSAL",
+        "localidad": "Suba",
+        "matriculados_2023": 1527,
+        "consumo_anual_2023_kwh": 45535,
+        "lon": -74.11047000044756,
+        "lat": 4.746210000127952,
+        "base_consumo_hora_2023_kwh": 5.198059360730594
+    },
+    {
+        "id_sede": 111001110094,
+        "nombre_sede": "COLEGIO TIBABUYES UNIVERSAL (IED) - SEDE B",
+        "localidad": "Suba",
+        "matriculados_2023": 968,
+        "consumo_anual_2023_kwh": 15443,
+        "lon": -74.10483999984717,
+        "lat": 4.7422400004318,
+        "base_consumo_hora_2023_kwh": 1.7628995433789953
+    },
+    {
+        "id_sede": 111001110337,
+        "nombre_sede": "COLEGIO TIBABUYES UNIVERSAL (IED) - SEDE C",
+        "localidad": "Suba",
+        "matriculados_2023": 1237,
+        "consumo_anual_2023_kwh": 17855,
+        "lon": -74.09922000019085,
+        "lat": 4.743130000107349,
+        "base_consumo_hora_2023_kwh": 2.03824200913242
+    },
+    {
+        "id_sede": 111001075272,
+        "nombre_sede": "COLEGIO NUEVA COLOMBIA (IED) - SEDE NUEVA COLOMBIA",
+        "localidad": "Suba",
+        "matriculados_2023": 1990,
+        "consumo_anual_2023_kwh": 36127,
+        "lon": -74.09935999993294,
+        "lat": 4.728520000170921,
+        "base_consumo_hora_2023_kwh": 4.1240867579908675
+    },
+    {
+        "id_sede": 111001075515,
+        "nombre_sede": "COLEGIO GUSTAVO MORALES MORALES (IED) - SEDE GUSTAVO MORALES MORALES",
+        "localidad": "Suba",
+        "matriculados_2023": 1838,
+        "consumo_anual_2023_kwh": 62388,
+        "lon": -74.06438999987044,
+        "lat": 4.716690000536635,
+        "base_consumo_hora_2023_kwh": 7.1219178082191785
+    },
+    {
+        "id_sede": 111769000280,
+        "nombre_sede": "COLEGIO GUSTAVO MORALES MORALES (IED) - SEDE CIUDAD JARDIN NORTE",
+        "localidad": "Suba",
+        "matriculados_2023": 286,
+        "consumo_anual_2023_kwh": 10789,
+        "lon": -74.06978000027131,
+        "lat": 4.719330000165098,
+        "base_consumo_hora_2023_kwh": 1.2316210045662102
+    },
+    {
+        "id_sede": 111001086665,
+        "nombre_sede": "COLEGIO RAMON DE ZUBIRIA (IED) - SEDE RAMON DE ZUBIRIA",
+        "localidad": "Suba",
+        "matriculados_2023": 892,
+        "consumo_anual_2023_kwh": 27680,
+        "lon": -74.09229999997787,
+        "lat": 4.725740000534299,
+        "base_consumo_hora_2023_kwh": 3.1598173515981736
+    },
+    {
+        "id_sede": 111001104566,
+        "nombre_sede": "COLEGIO RAMON DE ZUBIRIA (IED) - SEDE STEPHEN HAWKING",
+        "localidad": "Suba",
+        "matriculados_2023": 885,
+        "consumo_anual_2023_kwh": 106381,
+        "lon": -74.08683000010936,
+        "lat": 4.727030000342166,
+        "base_consumo_hora_2023_kwh": 12.143949771689497
+    },
+    {
+        "id_sede": 111001093084,
+        "nombre_sede": "COLEGIO ALVARO GOMEZ HURTADO (IED) - SEDE ALVARO GOMEZ HURTADO",
+        "localidad": "Suba",
+        "matriculados_2023": 1617,
+        "consumo_anual_2023_kwh": 50408,
+        "lon": -74.09698999987168,
+        "lat": 4.7303300005782,
+        "base_consumo_hora_2023_kwh": 5.754337899543379
+    },
+    {
+        "id_sede": 211769000217,
+        "nombre_sede": "COLEGIO ALVARO GOMEZ HURTADO (IED) - SEDE LA CHUCUA NORTE",
+        "localidad": "Suba",
+        "matriculados_2023": 1102,
+        "consumo_anual_2023_kwh": 13802,
+        "lon": -74.09339999961969,
+        "lat": 4.735150000057794,
+        "base_consumo_hora_2023_kwh": 1.5755707762557078
+    },
+    {
+        "id_sede": 111001110426,
+        "nombre_sede": "COLEGIO ALVARO GOMEZ HURTADO (IED) - SEDE D",
+        "localidad": "Suba",
+        "matriculados_2023": 237,
+        "consumo_anual_2023_kwh": 10973,
+        "lon": -74.09650000032522,
+        "lat": 4.732670000250009,
+        "base_consumo_hora_2023_kwh": 1.2526255707762557
+    },
+    {
+        "id_sede": 111001094889,
+        "nombre_sede": "COLEGIO LA TOSCANA - LISBOA (IED) - SEDE LA TOSCANA",
+        "localidad": "Suba",
+        "matriculados_2023": 825,
+        "consumo_anual_2023_kwh": 19041,
+        "lon": -74.1134299996144,
+        "lat": 4.743560000243744,
+        "base_consumo_hora_2023_kwh": 2.1736301369863016
+    },
+    {
+        "id_sede": 111001012394,
+        "nombre_sede": "COLEGIO LA TOSCANA - LISBOA (IED) - SEDE LISBOA",
+        "localidad": "Suba",
+        "matriculados_2023": 665,
+        "consumo_anual_2023_kwh": 10762,
+        "lon": -74.1217800000804,
+        "lat": 4.740400000282855,
+        "base_consumo_hora_2023_kwh": 1.2285388127853882
+    },
+    {
+        "id_sede": 111001110434,
+        "nombre_sede": "COLEGIO LA TOSCANA - LISBOA (IED) - SEDE C",
+        "localidad": "Suba",
+        "matriculados_2023": 589,
+        "consumo_anual_2023_kwh": 10732,
+        "lon": -74.11562999979635,
+        "lat": 4.741739999708583,
+        "base_consumo_hora_2023_kwh": 1.2251141552511415
+    },
+    {
+        "id_sede": 111001104256,
+        "nombre_sede": "COLEGIO DELIA ZAPATA OLIVELLA (IED) - SEDE DELIA ZAPATA OLIVELLA",
+        "localidad": "Suba",
+        "matriculados_2023": 2289,
+        "consumo_anual_2023_kwh": 122440,
+        "lon": -74.11333000005529,
+        "lat": 4.753209999983457,
+        "base_consumo_hora_2023_kwh": 13.97716894977169
+    },
+    {
+        "id_sede": 111001104264,
+        "nombre_sede": "COLEGIO GERARDO MOLINA RAMIREZ (IED) - SEDE GERARDO MOLINA RAMIREZ",
+        "localidad": "Suba",
+        "matriculados_2023": 3254,
+        "consumo_anual_2023_kwh": 121086,
+        "lon": -74.11581999976715,
+        "lat": 4.749059999743512,
+        "base_consumo_hora_2023_kwh": 13.822602739726028
+    },
+    {
+        "id_sede": 111001104388,
+        "nombre_sede": "COLEGIO GONZALO ARANGO (IED) - SEDE GONZALO ARANGO",
+        "localidad": "Suba",
+        "matriculados_2023": 2436,
+        "consumo_anual_2023_kwh": 97920,
+        "lon": -74.09467000003914,
+        "lat": 4.730180000501628,
+        "base_consumo_hora_2023_kwh": 11.178082191780822
+    },
+    {
+        "id_sede": 111001110108,
+        "nombre_sede": "COLEGIO GONZALO ARANGO (IED) - SEDE B",
+        "localidad": "Suba",
+        "matriculados_2023": 208,
+        "consumo_anual_2023_kwh": 4716,
+        "lon": -74.09632000040017,
+        "lat": 4.738170000501848,
+        "base_consumo_hora_2023_kwh": 0.5383561643835616
+    },
+    {
+        "id_sede": 111001107069,
+        "nombre_sede": "COLEGIO VIRGINIA GUTIERREZ DE PINEDA (IED) - SEDE VIRGINIA GUTIERREZ DE PINEDA",
+        "localidad": "Suba",
+        "matriculados_2023": 2117,
+        "consumo_anual_2023_kwh": 82000,
+        "lon": -74.09127999980367,
+        "lat": 4.731300000288655,
+        "base_consumo_hora_2023_kwh": 9.360730593607306
+    },
+    {
+        "id_sede": 111001107077,
+        "nombre_sede": "COLEGIO VEINTIUN ANGELES (IED) - SEDE VEINTIUN ANGELES",
+        "localidad": "Suba",
+        "matriculados_2023": 2132,
+        "consumo_anual_2023_kwh": 93977,
+        "lon": -74.08035000011243,
+        "lat": 4.749449999962337,
+        "base_consumo_hora_2023_kwh": 10.727968036529681
+    },
+    {
+        "id_sede": 211769003186,
+        "nombre_sede": "COLEGIO VEINTIUN ANGELES (IED) - SEDE TUNA ALTA",
+        "localidad": "Suba",
+        "matriculados_2023": 332,
+        "consumo_anual_2023_kwh": 5258,
+        "lon": -74.07865000042099,
+        "lat": 4.749909999799214,
+        "base_consumo_hora_2023_kwh": 0.6002283105022831
+    },
+    {
+        "id_sede": 111769000263,
+        "nombre_sede": "COLEGIO VEINTIUN ANGELES (IED) - SEDE CASABLANCA",
+        "localidad": "Suba",
+        "matriculados_2023": 341,
+        "consumo_anual_2023_kwh": 5693,
+        "lon": -74.07583000009794,
+        "lat": 4.738069999797127,
+        "base_consumo_hora_2023_kwh": 0.6498858447488585
+    },
+    {
+        "id_sede": 111001800163,
+        "nombre_sede": "COLEGIO FILARMONICO JORGE MARIO BERGOGLIO (IED) - SEDE FILARMONICO JORGE MARIO BERGOGLIO",
+        "localidad": "Suba",
+        "matriculados_2023": 523,
+        "consumo_anual_2023_kwh": 76150,
+        "lon": -74.10309999997277,
+        "lat": 4.748630000348428,
+        "base_consumo_hora_2023_kwh": 8.692922374429223
+    },
+    {
+        "id_sede": 111769000174,
+        "nombre_sede": "COLEGIO FILARMONICO SIMON BOLIVAR (IED) - SEDE FILARMONICO SIMON BOLIVAR",
+        "localidad": "Suba",
+        "matriculados_2023": 1750,
+        "consumo_anual_2023_kwh": 49508,
+        "lon": -74.08416999961989,
+        "lat": 4.741370000193734,
+        "base_consumo_hora_2023_kwh": 5.651598173515982
+    },
+    {
+        "id_sede": 111001110361,
+        "nombre_sede": "COLEGIO FILARMONICO SIMON BOLIVAR (IED) - SEDE B",
+        "localidad": "Suba",
+        "matriculados_2023": 250,
+        "consumo_anual_2023_kwh": 4229,
+        "lon": -74.0840299998778,
+        "lat": 4.738410000522708,
+        "base_consumo_hora_2023_kwh": 0.48276255707762555
+    },
+    {
+        "id_sede": 111769000247,
+        "nombre_sede": "COLEGIO EL SALITRE - SUBA (IED) - SEDE EL SALITRE",
+        "localidad": "Suba",
+        "matriculados_2023": 948,
+        "consumo_anual_2023_kwh": 18632,
+        "lon": -74.07711999971053,
+        "lat": 4.759629999910375,
+        "base_consumo_hora_2023_kwh": 2.1269406392694066
+    },
+    {
+        "id_sede": 211769000845,
+        "nombre_sede": "COLEGIO EL SALITRE - SUBA (IED) - SEDE SAN CARLOS DE SUBA",
+        "localidad": "Suba",
+        "matriculados_2023": 1218,
+        "consumo_anual_2023_kwh": 10346,
+        "lon": -74.08817999999646,
+        "lat": 4.752730000303809,
+        "base_consumo_hora_2023_kwh": 1.1810502283105022
+    },
+    {
+        "id_sede": 111001017698,
+        "nombre_sede": "COLEGIO EL SALITRE - SUBA (IED) - SEDE LICEO MIXTO DEL DAS",
+        "localidad": "Suba",
+        "matriculados_2023": 1265,
+        "consumo_anual_2023_kwh": 19650,
+        "lon": -74.08317000043549,
+        "lat": 4.749030000543924,
+        "base_consumo_hora_2023_kwh": 2.243150684931507
+    },
+    {
+        "id_sede": 111769000956,
+        "nombre_sede": "COLEGIO PRADO VERANIEGO (IED) - SEDE PRADO VERANIEGO II",
+        "localidad": "Suba",
+        "matriculados_2023": 948,
+        "consumo_anual_2023_kwh": 25360,
+        "lon": -74.05452999968378,
+        "lat": 4.716940000138196,
+        "base_consumo_hora_2023_kwh": 2.894977168949772
+    },
+    {
+        "id_sede": 111769000948,
+        "nombre_sede": "COLEGIO PRADO VERANIEGO (IED) - SEDE PRADO VERANIEGO I",
+        "localidad": "Suba",
+        "matriculados_2023": 620,
+        "consumo_anual_2023_kwh": 17492,
+        "lon": -74.06063999978487,
+        "lat": 4.713419999718091,
+        "base_consumo_hora_2023_kwh": 1.9968036529680366
+    },
+    {
+        "id_sede": 111769001502,
+        "nombre_sede": "COLEGIO ANIBAL FERNANDEZ DE SOTO (IED) - SEDE ANIBAL FERNANDEZ DE SOTO",
+        "localidad": "Suba",
+        "matriculados_2023": 791,
+        "consumo_anual_2023_kwh": 19665,
+        "lon": -74.0573399999611,
+        "lat": 4.72306999990502,
+        "base_consumo_hora_2023_kwh": 2.2448630136986303
+    },
+    {
+        "id_sede": 111769000328,
+        "nombre_sede": "COLEGIO ANIBAL FERNANDEZ DE SOTO (IED) - SEDE PRADO PINZON",
+        "localidad": "Suba",
+        "matriculados_2023": 610,
+        "consumo_anual_2023_kwh": 14312,
+        "lon": -74.05429000038258,
+        "lat": 4.72670000034925,
+        "base_consumo_hora_2023_kwh": 1.6337899543378995
+    },
+    {
+        "id_sede": 111769001871,
+        "nombre_sede": "COLEGIO NUEVA ZELANDIA (IED) - SEDE NUEVA ZELANDIA",
+        "localidad": "Suba",
+        "matriculados_2023": 901,
+        "consumo_anual_2023_kwh": 75564,
+        "lon": -74.04964999981917,
+        "lat": 4.759179999883727,
+        "base_consumo_hora_2023_kwh": 8.626027397260273
+    },
+    {
+        "id_sede": 111769003114,
+        "nombre_sede": "COLEGIO VISTA BELLA (IED) - SEDE SAN CIPRIANO",
+        "localidad": "Suba",
+        "matriculados_2023": 771,
+        "consumo_anual_2023_kwh": 7340,
+        "lon": -74.0550100000828,
+        "lat": 4.748760000526939,
+        "base_consumo_hora_2023_kwh": 0.8378995433789954
+    },
+    {
+        "id_sede": 111001092983,
+        "nombre_sede": "COLEGIO VISTA BELLA (IED) - SEDE VISTA BELLA",
+        "localidad": "Suba",
+        "matriculados_2023": 417,
+        "consumo_anual_2023_kwh": 6280,
+        "lon": -74.05444000017042,
+        "lat": 4.749830000238859,
+        "base_consumo_hora_2023_kwh": 0.7168949771689498
+    },
+    {
+        "id_sede": 111769003777,
+        "nombre_sede": "COLEGIO VISTA BELLA (IED) - SEDE GRANADA NORTE",
+        "localidad": "Suba",
+        "matriculados_2023": 429,
+        "consumo_anual_2023_kwh": 8486,
+        "lon": -74.04824999970337,
+        "lat": 4.750030000017559,
+        "base_consumo_hora_2023_kwh": 0.9687214611872146
+    },
+    {
+        "id_sede": 111769003122,
+        "nombre_sede": "COLEGIO VILLA ELISA (IED) - SEDE VILLA ELISA",
+        "localidad": "Suba",
+        "matriculados_2023": 696,
+        "consumo_anual_2023_kwh": 7598,
+        "lon": -74.08788999956822,
+        "lat": 4.732400000106242,
+        "base_consumo_hora_2023_kwh": 0.867351598173516
+    },
+    {
+        "id_sede": 111769003165,
+        "nombre_sede": "COLEGIO VILLA ELISA (IED) - SEDE EL RUBI-JAPON",
+        "localidad": "Suba",
+        "matriculados_2023": 857,
+        "consumo_anual_2023_kwh": 25829,
+        "lon": -74.09336000033504,
+        "lat": 4.7227399998174615,
+        "base_consumo_hora_2023_kwh": 2.94851598173516
+    },
+    {
+        "id_sede": 111001107735,
+        "nombre_sede": "COLEGIO VILLA ELISA (IED) - SEDE NUEVA COLOMBIA",
+        "localidad": "Suba",
+        "matriculados_2023": 384,
+        "consumo_anual_2023_kwh": 9063,
+        "lon": -74.08872999981736,
+        "lat": 4.727840000472336,
+        "base_consumo_hora_2023_kwh": 1.0345890410958904
+    },
+    {
+        "id_sede": 111769003360,
+        "nombre_sede": "COLEGIO REPUBLICA DOMINICANA (IED) - SEDE REPUBLICA DOMINICANA",
+        "localidad": "Suba",
+        "matriculados_2023": 3344,
+        "consumo_anual_2023_kwh": 160557,
+        "lon": -74.10896999987435,
+        "lat": 4.739260000262074,
+        "base_consumo_hora_2023_kwh": 18.328424657534246
+    },
+    {
+        "id_sede": 111769003416,
+        "nombre_sede": "COLEGIO JUAN LOZANO Y LOZANO (IED) - SEDE JUAN LOZANO Y LOZANO",
+        "localidad": "Suba",
+        "matriculados_2023": 1291,
+        "consumo_anual_2023_kwh": 36710,
+        "lon": -74.09303999976957,
+        "lat": 4.740900000185484,
+        "base_consumo_hora_2023_kwh": 4.190639269406392
+    },
+    {
+        "id_sede": 111769000182,
+        "nombre_sede": "COLEGIO JUAN LOZANO Y LOZANO (IED) - SEDE SUBA CENTRO",
+        "localidad": "Suba",
+        "matriculados_2023": 2057,
+        "consumo_anual_2023_kwh": 43208,
+        "lon": -74.08631999957312,
+        "lat": 4.7547300004930975,
+        "base_consumo_hora_2023_kwh": 4.932420091324201
+    },
+    {
+        "id_sede": 111769003424,
+        "nombre_sede": "COLEGIO GERARDO PAREDES (IED) - SEDE GERARDO PAREDES MARTINEZ",
+        "localidad": "Suba",
+        "matriculados_2023": 4276,
+        "consumo_anual_2023_kwh": 112797,
+        "lon": -74.09364999986495,
+        "lat": 4.725879999713499,
+        "base_consumo_hora_2023_kwh": 12.876369863013698
+    },
+    {
+        "id_sede": 111001096539,
+        "nombre_sede": "COLEGIO GERARDO PAREDES (IED) - SEDE LA FRONTERA",
+        "localidad": "Suba",
+        "matriculados_2023": 444,
+        "consumo_anual_2023_kwh": 6324,
+        "lon": -74.09286999989028,
+        "lat": 4.718680000028453,
+        "base_consumo_hora_2023_kwh": 0.7219178082191781
+    },
+    {
+        "id_sede": 111769004188,
+        "nombre_sede": "COLEGIO HUNZA (IED) - SEDE LA AGUADITA",
+        "localidad": "Suba",
+        "matriculados_2023": 569,
+        "consumo_anual_2023_kwh": 18323,
+        "lon": -74.083150000344,
+        "lat": 4.723329999999017,
+        "base_consumo_hora_2023_kwh": 2.091666666666667
+    },
+    {
+        "id_sede": 111001086363,
+        "nombre_sede": "COLEGIO HUNZA (IED) - SEDE DIVINO NIÑO JESUS EL CONDOR",
+        "localidad": "Suba",
+        "matriculados_2023": 422,
+        "consumo_anual_2023_kwh": 15415,
+        "lon": -74.08727000032543,
+        "lat": 4.72071999990193,
+        "base_consumo_hora_2023_kwh": 1.759703196347032
+    },
+    {
+        "id_sede": 111001086592,
+        "nombre_sede": "COLEGIO HUNZA (IED) - SEDE CIUDAD HUNZA",
+        "localidad": "Suba",
+        "matriculados_2023": 582,
+        "consumo_anual_2023_kwh": 6168,
+        "lon": -74.08563000001013,
+        "lat": 4.720490000163486,
+        "base_consumo_hora_2023_kwh": 0.7041095890410959
+    },
+    {
+        "id_sede": 211769003151,
+        "nombre_sede": "COLEGIO NICOLAS BUENAVENTURA (IED) - SEDE CHORRILLOS",
+        "localidad": "Suba",
+        "matriculados_2023": 333,
+        "consumo_anual_2023_kwh": 11720,
+        "lon": -74.09122000042754,
+        "lat": 4.784920000078228,
+        "base_consumo_hora_2023_kwh": 1.3378995433789955
+    },
+    {
+        "id_sede": 111001107786,
+        "nombre_sede": "COLEGIO NICOLAS BUENAVENTURA (IED) - SEDE NICOLAS BUENAVENTURA",
+        "localidad": "Suba",
+        "matriculados_2023": 1941,
+        "consumo_anual_2023_kwh": 83200,
+        "lon": -74.09102999955842,
+        "lat": 4.754040000076635,
+        "base_consumo_hora_2023_kwh": 9.497716894977168
+    }
+]
