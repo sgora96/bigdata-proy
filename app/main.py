@@ -10,13 +10,11 @@ from app.scheduler import start_scheduler, stop_scheduler
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Código a ejecutar ANTES de que la app empiece a recibir requests
     print("Iniciando aplicación...")
-    start_scheduler()  # Iniciar el planificador
-    yield  # La aplicación se ejecuta aquí
-    # Código a ejecutar DESPUÉS de que la app termine
+    start_scheduler()
+    yield
     print("Apagando aplicación...")
-    stop_scheduler()  # Detener el planificador limpiamente
+    stop_scheduler()
 
 
 app = FastAPI(
@@ -24,19 +22,20 @@ app = FastAPI(
     description="API para recibir, procesar y exponer datos simulados de consumo energético de colegios de Suba.",
     version="0.1.0",
     lifespan=lifespan,
+    redirect_slashes=False  # ← AGREGAR ESTA LÍNEA
 )
 
 # Configuración de CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:4200",  # Angular en desarrollo
-        "http://localhost:3000",  # Por si usas otro puerto
-        # Agrega aquí tu dominio de producción cuando lo despliegues
+        "http://localhost:4200",
+        "http://localhost:3000",
+        "https://tu-dominio-frontend.com",  # Agrega tu dominio de producción
     ],
     allow_credentials=True,
-    allow_methods=["*"],  # Permite todos los métodos HTTP
-    allow_headers=["*"],  # Permite todos los headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(
